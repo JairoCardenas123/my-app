@@ -1,6 +1,6 @@
 # Componentes en REACT
 
-son unidades fundamentales que componen una interfaz de usuario,son bloques de construccion reutilizables.
+son unidades fundamentales que componen una interfaz de usuario,son bloques de construccion reutilizables,  Combinan HTML,CSS Y JavaScript.
 
 
 
