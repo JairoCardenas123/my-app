@@ -1,11 +1,12 @@
 import './App.css';
+import ExpenseItem from './components/Expenseltem.js';
 
-const para = document.createElement('p')
-document.getElementById('root')
+
 function App() {
   return (
     <div>
       <h2>Let's get started!!</h2>
+      <ExpenseItem></ExpenseItem>
     </div>
   );
 }
